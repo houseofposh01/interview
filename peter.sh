@@ -1,0 +1,1 @@
+echo Lord is good
